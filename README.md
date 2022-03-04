@@ -1,11 +1,9 @@
-Install dependencies
-===
+# Install dependencies
+
 ```bash
 poetry install
 ```
-
-Run
-===
+# Run
 ```bash
 poetry shell
 python3 scratch_nn/nn.py
